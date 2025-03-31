@@ -1,1 +1,2 @@
 openproject/community:latest
+nginx:latest
